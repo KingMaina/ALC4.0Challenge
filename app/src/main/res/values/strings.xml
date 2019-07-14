@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALC4Challenge</string>
+    <string name="profile_name">ANDREW MWANGI MAINA</string>
+    <string name="profile_track">Track: Android</string>
+    <string name="prof_email">Email: drew29799@gmail.com</string>
+    <string name="prof_slack_username" >Slack Username: @andrew</string>
+    <string name="prof_country">Country: Kenya</string>
+    <string name="prof_phone">Phone: +254700216997</string>
+    <string name="btn_about_alc">About ALC</string>
+    <string name="btn_my_profile">My Profile</string>
+    <string name="text_header">Welcome To ALC 4.0 Phase 1</string>
+    <string name="text_alc">About ALC</string>
+    <string name="text_profile">My Profile</string>
+</resources>
